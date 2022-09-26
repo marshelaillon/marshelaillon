@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marshel</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bolivia</h3>
+<h3 align="center">A passionate Full Stack Web Developer!</h3>
 
 - 🌱 I’m currently learning **TypeScript, MongoDB, React-Bootstrap**
 
