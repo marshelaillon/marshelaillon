@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **TypeScript and Postgis**
 
+- 🗒️ My blog **https://medium.com/@marshel.aillon**
+
 - 💬 Ask me about **JavaScript / Node.js / ReactJS / ExpressJS / TypeScript**
 
 - 📫 How to reach me **marshel.aillon@gmail.com**
