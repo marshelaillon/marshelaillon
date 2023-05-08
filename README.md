@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marshel</h1>
 <h3 align="center">A passionate Full Stack Web Developer!</h3>
 
-- 🌱 I’m currently learning **TypeScript and Postgis**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🗒️ My blog **https://medium.com/@marshel.aillon**
 
