@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Web App called "The Perfect Mentor"<br>👯 I’m looking to collaborate on Challenging Projects<br>🌱 I’m currently learning MongoDB & TypeScript<br>💬 Ask me about TypeScript, JavaScript, Node.js
+🔭 I’m currently working on a Web App called "The Wild Oasis"<br>👯 I’m looking to collaborate on Challenging Projects<br>🌱 I’m currently learning Supabase & NextJS 13<br>💬 Ask me about TypeScript, JavaScript, Node.js
 
 
 ## 🌐 Socials:
